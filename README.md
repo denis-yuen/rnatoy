@@ -26,3 +26,8 @@ How execute it
     `nextflow run nextflow-io/rnatoy -with-docker` 
     
     
+    
+## Custom notes
+* added a test.json, but it can seem redundant since this workflow can run entirely from defaults
+    
+    
